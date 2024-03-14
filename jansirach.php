@@ -1,1 +1,3 @@
-<? $helloWorld ?>
+<?php
+ echo "COTTON PICKER";
+
